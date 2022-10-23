@@ -50,5 +50,6 @@
 При несоответствии формата функция должна генерировать исключение, которое должно влиять на валидацию поля (валидацию мы проходили).
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/h8k57tkllseqm14g/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ahj-10/branch/main)
 
-[GH-Pages]()
+[GH-Pages](https://nikitakurys.github.io/AHJ-10/)
